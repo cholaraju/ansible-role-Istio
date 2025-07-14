@@ -1,0 +1,5 @@
+---
+# defaults file for Istio-role
+istio_version: "1.22.0"
+istio_install_dir: "/opt/istio"
+istio_profile: "demo"
